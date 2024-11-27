@@ -2,7 +2,7 @@ import telebot
 from keyboards import get_start_keyboard
 from recipeProcessing import syrniki_IzTvoroga_text, soup_s_frikadelykami, seledyPodShuboy, blinyNaMoloke
 
-TOKEN = '7647005564:AAFSNvWhpWuehR1AZxybSc1ikTD7t_uJJlc'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 
